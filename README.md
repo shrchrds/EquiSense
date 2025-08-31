@@ -1,4 +1,4 @@
-# MEDICAL RAG CHATBOT
+# EquiSense Chat with Finance Documents
 
 ## Clone the Project
 
