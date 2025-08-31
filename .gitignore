@@ -1,0 +1,7 @@
+venv/
+logs/
+RAG_Medcal_Chatbot.egg-info/
+.env
+EquiSense.egg-info/
+.continue
+.lightning_studio
