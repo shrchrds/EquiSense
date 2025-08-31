@@ -138,7 +138,7 @@ Click **Save**.
 
 - Go back to **Jenkins Dashboard**
 - Click **New Item** → Select **Pipeline**
-- Enter a name (e.g., `medical-rag-pipeline`)
+- Enter a name (e.g., `finance-rag-pipeline`)
 - Click **OK** → Scroll down, configure minimal settings → Click **Save**
 
 > ⚠️ You will have to configure pipeline details **again** in the next step
